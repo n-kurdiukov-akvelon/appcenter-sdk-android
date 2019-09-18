@@ -1,40 +1,35 @@
 {
-  "project_info": {
-    "project_number": "209398974852",
-    "firebase_url": "https://sassqtest.firebaseio.com",
-    "project_id": "sassqtest",
-    "storage_bucket": "sassqtest.appspot.com"
-  },
-  "client": [
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:209398974852:android:13436740b3c8a2a89fb5d1",
-        "android_client_info": {
-          "package_name": "com.microsoft.appcenter.sasquatch.project"
-        }
-      },
-      "oauth_client": [
+    "project_info": {
+        "project_number": "177539951155",
+        "project_id": "mobile-center-sdk-android"
+    },
+    "client": [
         {
-          "client_id": "209398974852-vruiifpumkeanvdoab0233ckf7e5l44c.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
+            "client_info": {
+                "mobilesdk_app_id": "1:177539951155:android:255e6891ff8b3d21",
+                "android_client_info": {
+                    "package_name": "com.microsoft.appcenter.sasquatch.project"
+                }
+            },
+            "api_key": [
+                {
+                    "current_key": ""
+                }
+            ]
+        },
         {
-          "current_key": "AIzaSyCixv3JHT2TYvDgN_eTyKq0BqSDWbwXTLM"
+            "client_info": {
+                "mobilesdk_app_id": "1:177539951155:android:232fe25690f77e94",
+                "android_client_info": {
+                    "package_name": "com.microsoft.appcenter.sasquatch.jcenter"
+                }
+            },
+            "api_key": [
+                {
+                    "current_key": ""
+                }
+            ]
         }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "209398974852-vruiifpumkeanvdoab0233ckf7e5l44c.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "configuration_version": "1"
+    ],
+    "configuration_version": "1"
 }
