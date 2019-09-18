@@ -13,6 +13,12 @@
                     "package_name": "com.microsoft.appcenter.sasquatch.project"
                 }
             },
+			     "oauth_client": [
+				{
+				  "client_id": "952814600978-gtfbm0q5guut43eeg86alorv2ge9ill9.apps.googleusercontent.com",
+				  "client_type": 3
+				}
+			  ],
 			"api_key": [
 				{
 				  "current_key": "AIzaSyCzpZatT_rSoMAXKtfrzqgSrjCn2bdUB2E"
@@ -36,6 +42,12 @@
 					"package_name": "com.microsoft.appcenter.sasquatch.jcenter"
 				}
 			},
+			"oauth_client": [
+				{
+				  "client_id": "952814600978-gtfbm0q5guut43eeg86alorv2ge9ill9.apps.googleusercontent.com",
+				  "client_type": 3
+				}
+			  ],
 			"api_key": [
 				{
 				  "current_key": "AIzaSyCzpZatT_rSoMAXKtfrzqgSrjCn2bdUB2E"
