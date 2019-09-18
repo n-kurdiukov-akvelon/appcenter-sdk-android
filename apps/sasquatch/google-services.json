@@ -8,7 +8,7 @@
     "client": [
         {
             "client_info": {
-                "mobilesdk_app_id": "1:177539951155:android:255e6891ff8b3d21",
+                "mobilesdk_app_id": "1:952814600978:android:255e6891ff8b3d21",
                 "android_client_info": {
                     "package_name": "com.microsoft.appcenter.sasquatch.project"
                 }
@@ -37,7 +37,7 @@
         },
         {
 			"client_info": {
-				"mobilesdk_app_id": "1:177539951155:android:232fe25690f77e94",
+				"mobilesdk_app_id": "1:952814600978:android:232fe25690f77e94",
 				"android_client_info": {
 					"package_name": "com.microsoft.appcenter.sasquatch.jcenter"
 				}
