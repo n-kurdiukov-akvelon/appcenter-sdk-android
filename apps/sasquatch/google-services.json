@@ -1,7 +1,9 @@
 {
     "project_info": {
         "project_number": "177539951155",
-        "project_id": "mobile-center-sdk-android"
+        "project_id": "mobile-center-sdk-android",
+		"firebase_url": "https://sastest2-7d14e.firebaseio.com",
+		"storage_bucket": "sastest2-7d14e.appspot.com"
     },
     "client": [
         {
@@ -11,24 +13,44 @@
                     "package_name": "com.microsoft.appcenter.sasquatch.project"
                 }
             },
-            "api_key": [
-                {
-                    "current_key": ""
-                }
-            ]
+			"api_key": [
+				{
+				  "current_key": "AIzaSyCzpZatT_rSoMAXKtfrzqgSrjCn2bdUB2E"
+				}
+			],
+			"services": {
+				"appinvite_service": {
+				  "other_platform_oauth_client": [
+					{
+					  "client_id": "952814600978-gtfbm0q5guut43eeg86alorv2ge9ill9.apps.googleusercontent.com",
+					  "client_type": 3
+					}
+				  ]
+				}
+			}
         },
         {
-            "client_info": {
-                "mobilesdk_app_id": "1:177539951155:android:232fe25690f77e94",
-                "android_client_info": {
-                    "package_name": "com.microsoft.appcenter.sasquatch.jcenter"
-                }
-            },
-            "api_key": [
-                {
-                    "current_key": ""
-                }
-            ]
+			"client_info": {
+				"mobilesdk_app_id": "1:177539951155:android:232fe25690f77e94",
+				"android_client_info": {
+					"package_name": "com.microsoft.appcenter.sasquatch.jcenter"
+				}
+			},
+			"api_key": [
+				{
+				  "current_key": "AIzaSyCzpZatT_rSoMAXKtfrzqgSrjCn2bdUB2E"
+				}
+			],
+			"services": {
+				"appinvite_service": {
+				  "other_platform_oauth_client": [
+					{
+					  "client_id": "952814600978-gtfbm0q5guut43eeg86alorv2ge9ill9.apps.googleusercontent.com",
+					  "client_type": 3
+					}
+				  ]
+				}
+			}
         }
     ],
     "configuration_version": "1"
